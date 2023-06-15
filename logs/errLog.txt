@@ -1,0 +1,91 @@
+2023-06-01		13:04:22	4e7b4d06-4027-4dc9-a2e0-32ac47221182	 Error: Not allowed by CORS	GET	/	https://www.youtube.com 
+2023-06-01		13:05:07	9f6e715a-1a89-4b4a-9456-41ab1216a2ea	 Error: Not allowed by CORS	GET	/	https://www.youtube.com 
+2023-06-01		13:05:17	196e1e5b-81f3-4c8b-9a33-6bba62ea4b6d	 Error: Not allowed by CORS	OPTIONS	/	https://m.youtube.com 
+2023-06-01		13:05:17	01d4cc6b-53ae-4f14-bcd3-a9de772bfd52	 Error: Not allowed by CORS	GET	/	https://m.youtube.com 
+2023-06-01		13:06:31	2ffe79d6-3e55-4257-98b9-20f67b6cbfee	 Error: Not allowed by CORS	OPTIONS	/	https://m.youtube.com 
+2023-06-01		13:06:31	51997adf-297c-4f8a-8762-7d4c75412a40	 Error: Not allowed by CORS	GET	/	https://m.youtube.com 
+2023-06-01		13:07:13	67464836-b34a-41a0-823d-9060928d411a	 Error: Not allowed by CORS	OPTIONS	/	https://m.youtube.com 
+2023-06-01		13:07:13	97dfb0f5-efe7-4818-a39e-f8cd7bff1c62	 Error: Not allowed by CORS	GET	/	https://m.youtube.com 
+2023-06-01		13:07:23	07b882ef-ae95-494d-b533-5a7ac210ed65	 Error: Not allowed by CORS	OPTIONS	/	https://m.youtube.com 
+2023-06-01		13:07:23	003968bd-ea46-4f66-b3e7-c3e0a667ea87	 Error: Not allowed by CORS	GET	/	https://m.youtube.com 
+2023-06-01		13:08:05	a0d10498-8ff5-40ac-88dd-d7250263f35c	 Error: Not allowed by CORS	OPTIONS	/	https://www.google.com 
+2023-06-01		13:08:05	ca57813e-30a1-4e03-a97a-f30b234f4ad9	 Error: Not allowed by CORS	GET	/	https://www.google.com 
+2023-06-01		13:09:29	1559b87d-1fcb-480e-b789-9d4a5a165e31	 Error: Not allowed by CORS	OPTIONS	/	https://www.google.com 
+2023-06-01		13:09:29	9fc32d3e-c4a7-442f-ba6a-d2c459224bb7	 Error: Not allowed by CORS	GET	/	https://www.google.com 
+2023-06-01		13:09:37	60341805-88f9-4ec6-a360-8c4bc73fd79c	 Error: Not allowed by CORS	OPTIONS	/	https://www.google.com 
+2023-06-01		13:09:37	55e1e8a4-d96e-4714-8c3f-8f28485c6755	 Error: Not allowed by CORS	GET	/	https://www.google.com 
+2023-06-01		13:21:24	84673bd8-0086-4ac8-bcc7-771785e844a1	 Error: Not allowed by CORS	OPTIONS	/	https://www.google.com 
+2023-06-01		13:21:24	9f407407-7e0b-4b21-b550-03e5b5027cc6	 Error: Not allowed by CORS	GET	/	https://www.google.com 
+2023-06-01		13:22:15	c0350f9c-2640-43d1-8e30-e3ca3fb557bf	 Error: Not allowed by CORS	OPTIONS	/	https://www.google.com 
+2023-06-01		13:22:16	bfdeb448-3780-4d36-9fa0-b904e1be4886	 Error: Not allowed by CORS	GET	/	https://www.google.com 
+2023-06-02		12:14:21	0b5fded8-2534-42c6-8493-a63febed3c86	 SyntaxError: Unexpected token } in JSON at position 58	POST	/user	undefined 
+2023-06-02		12:16:38	23c44921-9411-482a-968b-59a16e718a1a	 ValidationError: User validation failed: roles.0: Cast to [string] failed for value "[ { Admin: 'Employees' } ]" (type string) at path "roles.0" because of "CastError"	POST	/user	undefined 
+2023-06-02		13:16:34	d09874e9-209c-42ba-b25f-8b6f80f73016	 TypeError: Cannot read properties of undefined (reading 'length')	PATCH	/user	undefined 
+2023-06-05		09:38:13	b65573c5-0418-4945-bde1-325c9ab2201f	 ReferenceError: password is not defined	PATCH	/user	undefined 
+2023-06-05		09:40:28	44e8dda9-7ef2-4024-b578-8c1f0e1726b4	 ReferenceError: password is not defined	PATCH	/user	undefined 
+2023-06-05		09:43:32	5f59c74f-96e1-4392-955f-ba5aba9e1e6b	 ReferenceError: password is not defined	PATCH	/user	undefined 
+2023-06-05		09:43:48	8f9c1ce3-8d3d-4619-a6da-0060e8217274	 ReferenceError: password is not defined	PATCH	/user	undefined 
+2023-06-05		09:44:06	b741573d-6978-434e-9704-5846bd79dae0	 ReferenceError: password is not defined	PATCH	/user	undefined 
+2023-06-05		09:48:44	1c0e2668-9d55-4146-88d5-08e9f9aaa87e	 TypeError: Cannot read properties of null (reading 'length')	DELETE	/user	undefined 
+2023-06-05		09:49:01	0801a3a1-2888-4669-aa21-fad5c4c238dc	 TypeError: Cannot read properties of null (reading 'length')	DELETE	/user	undefined 
+2023-06-06		12:47:37	b90870bc-0303-48b2-bc35-ef4f616c2886	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:48:29	c7ae773b-9bf0-4419-906b-5afcb595f42e	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:48:34	c7e9b234-ab22-4527-b894-4c190fe90a2d	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:48:35	a2478c4c-9eff-4775-af44-229425438b5d	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:48:35	36e509ca-101a-4ca7-8982-77aefd737581	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:49:33	896bc890-b5eb-4c07-b8a0-a0d8e6884777	 Error: Not allowed by CORS	GET	/user	http://localhost:5173 
+2023-06-06		12:49:47	8c1b18fd-268c-4546-bfe4-8c8bbc684eef	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:49:48	6e20ce22-781a-4757-9c2e-8544ce92581a	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:49:49	2d259714-3eaa-4c4e-987a-432eb313747f	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:49:49	8af7b83c-eac4-4d50-96f6-25d16a8231d2	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:52:04	641f2afc-1d38-4527-9a9f-09f10db5797e	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:52:06	386e1704-4a44-49a3-8616-42163a33b077	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:52:06	8203062e-4712-4aa8-9bbd-4cd623571c27	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:52:06	fc081812-169b-40fe-add7-fb1845ceb52e	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:52:50	e5f73d7b-3139-4666-bdc2-a2fdd57ca783	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:09	3dbcb757-8d2a-4edd-b6fa-4548ac90aab5	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:10	0cf21aad-1779-4f62-9587-93de1ad76d49	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:11	39d197b3-51ab-44ea-ac79-3dfa6758ff1f	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:11	5d67fdc0-4814-431a-88af-b3615679e194	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:11	43ee59c7-0e6c-4bca-ba52-1b8a1890c046	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:12	2c933213-16d1-4a13-a378-cf861848aebd	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:12	503e2ae0-0ee0-41f3-aa23-1f58a6176d4f	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		12:57:12	af8298c1-42a5-454e-8d9d-8fc6dfbcb14b	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:00:58	9c475346-de93-43ed-8bb6-8fd105fc335c	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:11	e606529b-47fa-477c-87b7-a3acc6ae0288	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:12	bb296007-defa-49e6-90b5-3e5039ffe778	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:12	c36e21c9-8f5b-4d9a-b4e3-2b0fac8f2550	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:12	69bf112d-f758-4aa8-842d-281bba891126	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:50	97bbc4c3-7541-43f9-bb10-b4475f99985d	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:51	075d85df-6d45-4261-b1d0-a0de43896612	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:51	a5128299-b00b-4c14-ac34-cc93cd18cc64	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:52	ee038064-519e-491a-b251-df3deb8e4cfc	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:53	2cac6137-6701-4b3a-8c58-4f21f63286dd	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:53	8f6eca37-7a1b-42ea-b71b-8fc9091a04a7	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:05:53	55943864-490b-45f3-a37c-32399444eb6d	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:06:59	bfd90ce8-93c7-46a2-8310-2fe3e57cdff7	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:12:15	18fbcb7c-33c2-4468-a56b-a7657c18c7a4	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-06		13:12:17	c57845e8-1bf4-49be-b678-83f911232444	 Error: Not allowed by CORS	GET	/users	http://localhost:5173 
+2023-06-08		09:56:46	d2c4e05e-d90f-4193-9615-ef5adbaceb15	 CastError: Cast to ObjectId failed for value "48194fbec0ada33ee3db15c" (type string) at path "_id" for model "Note"	PATCH	/notes	undefined 
+2023-06-08		10:02:48	4168673c-7de3-4c0f-893a-53f457a5fd5d	 CastError: Cast to ObjectId failed for value "48194fbec0ada33ee3db15c" (type string) at path "_id" for model "Note"	PATCH	/notes	undefined 
+2023-06-08		10:11:17	693b78d6-d310-4d74-a97a-492e23e47d1e	 CastError: Cast to ObjectId failed for value "48194fbec0ada33ee3db15c" (type string) at path "_id" for model "Notes"	PATCH	/notes	undefined 
+2023-06-08		11:28:25	1305f5bd-5c71-4384-b159-a428caaa4616	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-00.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		11:29:47	8aff90c6-0ec9-4e72-9e76-f07878dd1a86	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		11:29:47	b3a474c9-6458-4144-898e-1aa427d8fcd3	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-08		11:29:48	832fe361-f9af-429c-95b4-cf395265d4d6	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		11:29:48	653add8a-05fa-41be-b3d7-771f219e26a8	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-08		11:30:14	cfbebf93-b472-4bdd-bfc7-e36a85454b7a	 MongoServerSelectionError: connect ETIMEDOUT 3.213.72.62:27017	DELETE	/users	http://localhost:5173 
+2023-06-08		11:30:57	3e1adb26-2a99-420a-845d-e7ed28f5e1b0	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		11:30:57	1a80be22-5e46-4e59-b095-d10fb5ca8ee2	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-08		12:07:47	cdc7878d-4b34-481c-abee-7cf5ae2e8bf0	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-08		12:07:47	ff0dac8c-f2dc-463d-9b95-a3af66b32724	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		12:08:57	2d998828-a9c5-462e-a7f8-d26be925a233	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-08		12:08:57	6c245faa-b353-4055-ae80-eebceb89eb21	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-02.d0glbem.mongodb.net	GET	/users	http://localhost:5173 
+2023-06-08		15:57:33	b3e60bef-6240-428e-af5b-46a6f92b49bc	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-00.d0glbem.mongodb.net	POST	/auth	undefined 
+2023-06-09		11:36:09	34f4fa0c-a92f-4fec-99f0-577e3a779875	 MongoServerSelectionError: connection timed out	POST	/auth	http://localhost:5173 
+2023-06-13		10:54:48	595dde80-a45b-4e06-99a7-255cb9f2ccd1	 MongoServerSelectionError: connect ETIMEDOUT 3.212.41.125:27017	POST	/auth	http://localhost:5173 
+2023-06-13		10:55:40	d0bb4a10-4671-4a56-b540-9858fc8311fa	 MongoServerSelectionError: connect ETIMEDOUT 3.212.41.125:27017	POST	/auth	http://localhost:5173 
+2023-06-14		11:02:44	f27de109-9c9d-4c30-bc4c-ea7f74a2cc97	 PoolClearedOnNetworkError: Connection to ac-wwh2owy-shard-00-02.d0glbem.mongodb.net:27017 interrupted due to server monitor timeout	GET	/notes	http://localhost:5173 
+2023-06-14		11:03:29	bc752c5e-6748-480f-b8e3-76d98cbe2b20	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-wwh2owy-shard-00-00.d0glbem.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-14		11:04:15	964ce2eb-580d-4444-a014-fa58a7d47dc2	 MongoServerSelectionError: connect ETIMEDOUT 3.212.41.125:27017	GET	/notes	http://localhost:5173 
+2023-06-14		11:07:22	45e3877e-65db-4477-9867-6a03810a0d0a	 MongoServerSelectionError: connect ETIMEDOUT 3.212.41.125:27017	GET	/users	http://localhost:5173 
